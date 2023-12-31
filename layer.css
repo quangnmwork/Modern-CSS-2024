@@ -1,0 +1,8 @@
+@import url('./base.css') layer;
+
+@layer overwrite {
+  h1 {
+    color: red;
+    font-size: 3rem;
+  }
+}
